@@ -1,0 +1,6 @@
+tuple1 = (1, 2, 3, 2, 5, 23)
+print(tuple1)
+print(tuple1.count(2))
+tuple1 = tuple1 + (9,)
+print(tuple1)
+print(tuple1[2:4])
